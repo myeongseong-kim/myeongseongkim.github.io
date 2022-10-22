@@ -1,19 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.8477d13c.css",
-    "main.js": "/static/js/main.5617f8fa.js",
+    "main.js": "/static/js/main.b71ccc69.js",
     "static/js/787.d5553b83.chunk.js": "/static/js/787.d5553b83.chunk.js",
-    "static/media/test.jpg": "/static/media/test.f98aab3226ef04afd5b8.jpg",
-    "static/media/snowclock_heroshot.jpg": "/static/media/snowclock_heroshot.5363c19985d7e3370c74.jpg",
+    "static/media/temporary_header.jpg": "/static/media/temporary_header.f98aab3226ef04afd5b8.jpg",
+    "static/media/isle-of-reflections_heroshot.jpg": "/static/media/isle-of-reflections_heroshot.40648e78e2f0536a4a1f.jpg",
+    "static/media/snow-clock_heroshot.jpg": "/static/media/snow-clock_heroshot.5363c19985d7e3370c74.jpg",
     "static/media/myeongseongkim_2020-12-31.png": "/static/media/myeongseongkim_2020-12-31.45633970b6fdf951ba8d.png",
+    "static/media/under-the-cherry-blossom_heroshot.png": "/static/media/under-the-cherry-blossom_heroshot.22ac720cea84220f2fea.png",
+    "static/media/rolling-pixels_heroshot.png": "/static/media/rolling-pixels_heroshot.f37928b7e00a4ef0122f.png",
+    "static/media/dot_heroshot.jpg": "/static/media/dot_heroshot.048c9e6c9cd636b200b4.jpg",
     "static/media/phrase.svg": "/static/media/phrase.8d471cc0fdec34f9d1de99bf0f37f9cf.svg",
     "index.html": "/index.html",
     "main.8477d13c.css.map": "/static/css/main.8477d13c.css.map",
-    "main.5617f8fa.js.map": "/static/js/main.5617f8fa.js.map",
+    "main.b71ccc69.js.map": "/static/js/main.b71ccc69.js.map",
     "787.d5553b83.chunk.js.map": "/static/js/787.d5553b83.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8477d13c.css",
-    "static/js/main.5617f8fa.js"
+    "static/js/main.b71ccc69.js"
   ]
 }
