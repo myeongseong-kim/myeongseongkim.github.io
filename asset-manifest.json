@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8477d13c.css",
-    "main.js": "/static/js/main.408148d3.js",
+    "main.js": "/static/js/main.b8d66273.js",
     "static/js/787.d5553b83.chunk.js": "/static/js/787.d5553b83.chunk.js",
     "static/media/isle-of-reflections_additional2.jpg": "/static/media/isle-of-reflections_additional2.99e07774a50eb73f9f8d.jpg",
     "static/media/temporary_header.jpg": "/static/media/temporary_header.f98aab3226ef04afd5b8.jpg",
@@ -12,24 +12,27 @@
     "static/media/rolling-pixels_smile.png": "/static/media/rolling-pixels_smile.9ae1aa04a90dda565208.png",
     "static/media/snow-clock_additional2.jpg": "/static/media/snow-clock_additional2.b315a14a9b84ffc36415.jpg",
     "static/media/snow-clock_heroshot.jpg": "/static/media/snow-clock_heroshot.bc635a3e40654275e301.jpg",
+    "static/media/pneuglove_heroshot.jpg": "/static/media/pneuglove_heroshot.9187a87e8e05bde68b7c.jpg",
     "static/media/snow-clock_additional3.jpg": "/static/media/snow-clock_additional3.e8858a52943def0e370c.jpg",
     "static/media/dot_inside.jpg": "/static/media/dot_inside.6dca377793ce560c5bce.jpg",
     "static/media/dot_heroshot.jpg": "/static/media/dot_heroshot.ea657a790673e817b8eb.jpg",
     "static/media/isle-of-reflections_additional3.jpg": "/static/media/isle-of-reflections_additional3.cf7c20502e5a3c9efa7f.jpg",
+    "static/media/fishtank-jelly_heroshot.png": "/static/media/fishtank-jelly_heroshot.fe8794940ab10e3c1e2b.png",
     "static/media/isle-of-reflections_additional1.jpg": "/static/media/isle-of-reflections_additional1.83ae1c31fa1762ba56ad.jpg",
     "static/media/myeongseongkim_2020-12-31.png": "/static/media/myeongseongkim_2020-12-31.45633970b6fdf951ba8d.png",
     "static/media/under-the-cherry-blossom_heroshot.png": "/static/media/under-the-cherry-blossom_heroshot.22ac720cea84220f2fea.png",
     "static/media/rolling-pixels_heroshot.png": "/static/media/rolling-pixels_heroshot.f37928b7e00a4ef0122f.png",
+    "static/media/phantom_heroshot.png": "/static/media/phantom_heroshot.a45e6e99e382a15412eb.png",
     "static/media/rolling-pixels_structure.png": "/static/media/rolling-pixels_structure.2d6bc503d58a4731b1c2.png",
     "static/media/dot_howitworks.png": "/static/media/dot_howitworks.3d7fa8e9380c55ccc2ce.png",
     "static/media/phrase.svg": "/static/media/phrase.8d471cc0fdec34f9d1de99bf0f37f9cf.svg",
     "index.html": "/index.html",
     "main.8477d13c.css.map": "/static/css/main.8477d13c.css.map",
-    "main.408148d3.js.map": "/static/js/main.408148d3.js.map",
+    "main.b8d66273.js.map": "/static/js/main.b8d66273.js.map",
     "787.d5553b83.chunk.js.map": "/static/js/787.d5553b83.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8477d13c.css",
-    "static/js/main.408148d3.js"
+    "static/js/main.b8d66273.js"
   ]
 }
