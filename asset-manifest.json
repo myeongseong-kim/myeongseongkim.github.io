@@ -1,11 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.8477d13c.css",
-    "main.js": "/static/js/main.bed1ee13.js",
+    "main.js": "/static/js/main.d93a67bb.js",
     "static/js/787.d5553b83.chunk.js": "/static/js/787.d5553b83.chunk.js",
+    "static/media/phantom_spiral.jpg": "/static/media/phantom_spiral.b2efe22508d4016bd2f5.jpg",
+    "static/media/phantom_hi.jpg": "/static/media/phantom_hi.9fe38c16b0adf2306bda.jpg",
+    "static/media/phantom_footprints.jpg": "/static/media/phantom_footprints.4ce3ebed3bf269d25ad6.jpg",
+    "static/media/under-the-cherry-blossom_petal-particles-with-a-3d-fluid-field.gif": "/static/media/under-the-cherry-blossom_petal-particles-with-a-3d-fluid-field.7e6fb2cf77ccad3c6666.gif",
     "static/media/isle-of-reflections_additional2.jpg": "/static/media/isle-of-reflections_additional2.99e07774a50eb73f9f8d.jpg",
     "static/media/temporary_header.jpg": "/static/media/temporary_header.f98aab3226ef04afd5b8.jpg",
     "static/media/dot_concept.png": "/static/media/dot_concept.f7df662871cf307dc04d.png",
+    "static/media/phantom_ultraleap.jpg": "/static/media/phantom_ultraleap.b4b502303938a319522c.jpg",
+    "static/media/phantom_hno2.jpg": "/static/media/phantom_hno2.bb20afe882cc811c0698.jpg",
     "static/media/isle-of-reflections_heroshot.jpg": "/static/media/isle-of-reflections_heroshot.40648e78e2f0536a4a1f.jpg",
     "static/media/snow-clock_additional1.jpg": "/static/media/snow-clock_additional1.1d781ad80077ee0b0437.jpg",
     "static/media/dot_full.jpg": "/static/media/dot_full.f81b46419a1e200ef1bf.jpg",
@@ -17,22 +23,27 @@
     "static/media/dot_inside.jpg": "/static/media/dot_inside.6dca377793ce560c5bce.jpg",
     "static/media/dot_heroshot.jpg": "/static/media/dot_heroshot.ea657a790673e817b8eb.jpg",
     "static/media/isle-of-reflections_additional3.jpg": "/static/media/isle-of-reflections_additional3.cf7c20502e5a3c9efa7f.jpg",
-    "static/media/fishtank-jelly_heroshot.png": "/static/media/fishtank-jelly_heroshot.fe8794940ab10e3c1e2b.png",
+    "static/media/phantom_heroshot.png": "/static/media/phantom_heroshot.d59affac7d20628461e5.png",
+    "static/media/phantom_installation.jpg": "/static/media/phantom_installation.423af8beb6b6e96f0693.jpg",
     "static/media/isle-of-reflections_additional1.jpg": "/static/media/isle-of-reflections_additional1.83ae1c31fa1762ba56ad.jpg",
     "static/media/myeongseongkim_2020-12-31.png": "/static/media/myeongseongkim_2020-12-31.45633970b6fdf951ba8d.png",
+    "static/media/fishtank-jelly_users.jpg": "/static/media/fishtank-jelly_users.9e108b113aa5738946c4.jpg",
     "static/media/under-the-cherry-blossom_heroshot.png": "/static/media/under-the-cherry-blossom_heroshot.22ac720cea84220f2fea.png",
+    "static/media/fishtank-jelly_fullshot.jpg": "/static/media/fishtank-jelly_fullshot.03d857102aa2ff29f993.jpg",
+    "static/media/fishtank-jelly_closedshot.jpg": "/static/media/fishtank-jelly_closedshot.5e2d9ec5e48cc40be1f3.jpg",
+    "static/media/fishtank-jelly_interaction.jpg": "/static/media/fishtank-jelly_interaction.084993ee7850b260af9b.jpg",
     "static/media/rolling-pixels_heroshot.png": "/static/media/rolling-pixels_heroshot.f37928b7e00a4ef0122f.png",
-    "static/media/phantom_heroshot.png": "/static/media/phantom_heroshot.a45e6e99e382a15412eb.png",
-    "static/media/rolling-pixels_structure.png": "/static/media/rolling-pixels_structure.2d6bc503d58a4731b1c2.png",
+    "static/media/fishtank-jelly_heroshot.jpg": "/static/media/fishtank-jelly_heroshot.ce72a35ca6e76e2f1c6c.jpg",
+    "static/media/rolling-pixels_diagram.png": "/static/media/rolling-pixels_diagram.0e8e84374b38b7a67a72.png",
     "static/media/dot_howitworks.png": "/static/media/dot_howitworks.3d7fa8e9380c55ccc2ce.png",
     "static/media/phrase.svg": "/static/media/phrase.8d471cc0fdec34f9d1de99bf0f37f9cf.svg",
     "index.html": "/index.html",
     "main.8477d13c.css.map": "/static/css/main.8477d13c.css.map",
-    "main.bed1ee13.js.map": "/static/js/main.bed1ee13.js.map",
+    "main.d93a67bb.js.map": "/static/js/main.d93a67bb.js.map",
     "787.d5553b83.chunk.js.map": "/static/js/787.d5553b83.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8477d13c.css",
-    "static/js/main.bed1ee13.js"
+    "static/js/main.d93a67bb.js"
   ]
 }
