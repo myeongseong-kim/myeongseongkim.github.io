@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8477d13c.css",
-    "main.js": "/static/js/main.d93a67bb.js",
+    "main.js": "/static/js/main.212bbe24.js",
     "static/js/787.d5553b83.chunk.js": "/static/js/787.d5553b83.chunk.js",
     "static/media/phantom_spiral.jpg": "/static/media/phantom_spiral.b2efe22508d4016bd2f5.jpg",
     "static/media/phantom_hi.jpg": "/static/media/phantom_hi.9fe38c16b0adf2306bda.jpg",
@@ -18,7 +18,7 @@
     "static/media/rolling-pixels_smile.png": "/static/media/rolling-pixels_smile.9ae1aa04a90dda565208.png",
     "static/media/snow-clock_additional2.jpg": "/static/media/snow-clock_additional2.b315a14a9b84ffc36415.jpg",
     "static/media/snow-clock_heroshot.jpg": "/static/media/snow-clock_heroshot.bc635a3e40654275e301.jpg",
-    "static/media/pneuglove_heroshot.jpg": "/static/media/pneuglove_heroshot.9187a87e8e05bde68b7c.jpg",
+    "static/media/pneuglove_heroshot.jpg": "/static/media/pneuglove_heroshot.8f1ae78d87e45924f9cf.jpg",
     "static/media/snow-clock_additional3.jpg": "/static/media/snow-clock_additional3.e8858a52943def0e370c.jpg",
     "static/media/dot_inside.jpg": "/static/media/dot_inside.6dca377793ce560c5bce.jpg",
     "static/media/dot_heroshot.jpg": "/static/media/dot_heroshot.ea657a790673e817b8eb.jpg",
@@ -33,17 +33,21 @@
     "static/media/fishtank-jelly_closedshot.jpg": "/static/media/fishtank-jelly_closedshot.5e2d9ec5e48cc40be1f3.jpg",
     "static/media/fishtank-jelly_interaction.jpg": "/static/media/fishtank-jelly_interaction.084993ee7850b260af9b.jpg",
     "static/media/rolling-pixels_heroshot.png": "/static/media/rolling-pixels_heroshot.f37928b7e00a4ef0122f.png",
+    "static/media/time-to-snow_additional3.jpg": "/static/media/time-to-snow_additional3.8db5395e448c6d2c5907.jpg",
+    "static/media/time-to-snow_heroshot.jpg": "/static/media/time-to-snow_heroshot.938bd95e7f85e675d83c.jpg",
     "static/media/fishtank-jelly_heroshot.jpg": "/static/media/fishtank-jelly_heroshot.ce72a35ca6e76e2f1c6c.jpg",
+    "static/media/time-to-snow_additional1.jpg": "/static/media/time-to-snow_additional1.74c57dacee6dbccc9067.jpg",
+    "static/media/time-to-snow_additional2.jpg": "/static/media/time-to-snow_additional2.3ee03a4cb54f07e3965e.jpg",
     "static/media/rolling-pixels_diagram.png": "/static/media/rolling-pixels_diagram.0e8e84374b38b7a67a72.png",
     "static/media/dot_howitworks.png": "/static/media/dot_howitworks.3d7fa8e9380c55ccc2ce.png",
     "static/media/phrase.svg": "/static/media/phrase.8d471cc0fdec34f9d1de99bf0f37f9cf.svg",
     "index.html": "/index.html",
     "main.8477d13c.css.map": "/static/css/main.8477d13c.css.map",
-    "main.d93a67bb.js.map": "/static/js/main.d93a67bb.js.map",
+    "main.212bbe24.js.map": "/static/js/main.212bbe24.js.map",
     "787.d5553b83.chunk.js.map": "/static/js/787.d5553b83.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8477d13c.css",
-    "static/js/main.d93a67bb.js"
+    "static/js/main.212bbe24.js"
   ]
 }
