@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8477d13c.css",
-    "main.js": "/static/js/main.ef08260f.js",
+    "main.js": "/static/js/main.94421dcf.js",
     "static/js/787.d5553b83.chunk.js": "/static/js/787.d5553b83.chunk.js",
     "static/media/formative-study-erasing.gif": "/static/media/formative-study-erasing.1661439363c27b30afdd.gif",
     "static/media/formative-study-drawing.gif": "/static/media/formative-study-drawing.b8ee161abdbef16c2df0.gif",
@@ -74,6 +74,7 @@
     "static/media/time-to-snow_additional3.jpg": "/static/media/time-to-snow_additional3.8db5395e448c6d2c5907.jpg",
     "static/media/palette_heroshot.jpg": "/static/media/palette_heroshot.ef9d7cc5cfef53d28d60.jpg",
     "static/media/coraetor_bright.jpg": "/static/media/coraetor_bright.fc985c9794ccb04a69bf.jpg",
+    "static/media/coraetor_test.jpg": "/static/media/coraetor_test.faf31c23c0074649a6cd.jpg",
     "static/media/fact1.jpg": "/static/media/fact1.113f49b304796c8604b8.jpg",
     "static/media/fiction1.jpg": "/static/media/fiction1.85a7ba57638279d867f8.jpg",
     "static/media/time-to-snow_heroshot.jpg": "/static/media/time-to-snow_heroshot.938bd95e7f85e675d83c.jpg",
@@ -82,18 +83,19 @@
     "static/media/time-to-snow_additional2.jpg": "/static/media/time-to-snow_additional2.3ee03a4cb54f07e3965e.jpg",
     "static/media/Snow (Tokujin Yoshioka, 2010).png": "/static/media/Snow (Tokujin Yoshioka, 2010).5bef87af19791ebf3e7a.png",
     "static/media/tf-shell_heroshot.jpg": "/static/media/tf-shell_heroshot.b97cb2948eb45a745e01.jpg",
-    "static/media/speaker-glasscatfish_sketch.jpg": "/static/media/speaker-glasscatfish_sketch.f0b0cc6c4a12a1feb285.jpg",
+    "static/media/speaker-glasscatfish_sketch.jpg": "/static/media/speaker-glasscatfish_sketch.9a482d08897ebb1c0909.jpg",
     "static/media/rolling-pixels_diagram.png": "/static/media/rolling-pixels_diagram.0e8e84374b38b7a67a72.png",
+    "static/media/coraetor_howitworks.jpg": "/static/media/coraetor_howitworks.1251e897d508488f4d50.jpg",
     "static/media/pneuglove_schematic.jpg": "/static/media/pneuglove_schematic.10f3d761bba6e226e3bf.jpg",
     "static/media/dot_howitworks.png": "/static/media/dot_howitworks.3d7fa8e9380c55ccc2ce.png",
     "static/media/phrase.svg": "/static/media/phrase.8d471cc0fdec34f9d1de99bf0f37f9cf.svg",
     "index.html": "/index.html",
     "main.8477d13c.css.map": "/static/css/main.8477d13c.css.map",
-    "main.ef08260f.js.map": "/static/js/main.ef08260f.js.map",
+    "main.94421dcf.js.map": "/static/js/main.94421dcf.js.map",
     "787.d5553b83.chunk.js.map": "/static/js/787.d5553b83.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8477d13c.css",
-    "static/js/main.ef08260f.js"
+    "static/js/main.94421dcf.js"
   ]
 }
