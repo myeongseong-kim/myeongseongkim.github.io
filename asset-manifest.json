@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8477d13c.css",
-    "main.js": "/static/js/main.25c0d3cf.js",
+    "main.js": "/static/js/main.f52d421e.js",
     "static/js/787.d5553b83.chunk.js": "/static/js/787.d5553b83.chunk.js",
     "static/media/formative-study-erasing.gif": "/static/media/formative-study-erasing.1661439363c27b30afdd.gif",
     "static/media/formative-study-drawing.gif": "/static/media/formative-study-drawing.b8ee161abdbef16c2df0.gif",
@@ -90,14 +90,17 @@
     "static/media/coraetor_howitworks.jpg": "/static/media/coraetor_howitworks.1251e897d508488f4d50.jpg",
     "static/media/pneuglove_schematic.jpg": "/static/media/pneuglove_schematic.10f3d761bba6e226e3bf.jpg",
     "static/media/dot_howitworks.png": "/static/media/dot_howitworks.3d7fa8e9380c55ccc2ce.png",
+    "static/media/logo.svg": "/static/media/logo.2d7d008e82ff01bdcdf1bf43bbd9a0b9.svg",
     "static/media/phrase.svg": "/static/media/phrase.8d471cc0fdec34f9d1de99bf0f37f9cf.svg",
+    "static/media/logo_bold.svg": "/static/media/logo_bold.ad58f3e90b17a8b2d8066935d90a1191.svg",
+    "static/media/logo_thin.svg": "/static/media/logo_thin.166d22668f47b62068cbaf65319afe78.svg",
     "index.html": "/index.html",
     "main.8477d13c.css.map": "/static/css/main.8477d13c.css.map",
-    "main.25c0d3cf.js.map": "/static/js/main.25c0d3cf.js.map",
+    "main.f52d421e.js.map": "/static/js/main.f52d421e.js.map",
     "787.d5553b83.chunk.js.map": "/static/js/787.d5553b83.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8477d13c.css",
-    "static/js/main.25c0d3cf.js"
+    "static/js/main.f52d421e.js"
   ]
 }
