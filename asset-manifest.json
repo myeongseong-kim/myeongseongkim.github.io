@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8477d13c.css",
-    "main.js": "/static/js/main.d25334ca.js",
+    "main.js": "/static/js/main.842d564a.js",
     "static/js/787.d5553b83.chunk.js": "/static/js/787.d5553b83.chunk.js",
     "static/media/formative-study-erasing.gif": "/static/media/formative-study-erasing.1661439363c27b30afdd.gif",
     "static/media/formative-study-drawing.gif": "/static/media/formative-study-drawing.b8ee161abdbef16c2df0.gif",
@@ -57,6 +57,7 @@
     "static/media/time-to-snow_additional1.jpg": "/static/media/time-to-snow_additional1.4219e0649975840ef10f.jpg",
     "static/media/phantom_installation.jpg": "/static/media/phantom_installation.6a9e9d63c15692e91f6f.jpg",
     "static/media/fluid3D.webp": "/static/media/fluid3D.156d0eb86ac855aeec43.webp",
+    "static/media/time-to-snow-design.jpg": "/static/media/time-to-snow-design.6a0d304969dcd770764e.jpg",
     "static/media/fishtank-jelly_fullshot.jpg": "/static/media/fishtank-jelly_fullshot.ec881905a52de637d91d.jpg",
     "static/media/moleculight_additional0.jpg": "/static/media/moleculight_additional0.312c0e66bebf4da4ddb3.jpg",
     "static/media/fishtank-jelly_closedshot.jpg": "/static/media/fishtank-jelly_closedshot.f47a735343afc66e8217.jpg",
@@ -103,11 +104,11 @@
     "static/media/logo_thin.svg": "/static/media/logo_thin.166d22668f47b62068cbaf65319afe78.svg",
     "index.html": "/index.html",
     "main.8477d13c.css.map": "/static/css/main.8477d13c.css.map",
-    "main.d25334ca.js.map": "/static/js/main.d25334ca.js.map",
+    "main.842d564a.js.map": "/static/js/main.842d564a.js.map",
     "787.d5553b83.chunk.js.map": "/static/js/787.d5553b83.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8477d13c.css",
-    "static/js/main.d25334ca.js"
+    "static/js/main.842d564a.js"
   ]
 }
