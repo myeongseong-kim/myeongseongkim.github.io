@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d78d63e1.css",
-    "main.js": "/static/js/main.85d54627.js",
+    "main.js": "/static/js/main.9c83263f.js",
     "static/js/787.d5553b83.chunk.js": "/static/js/787.d5553b83.chunk.js",
     "static/media/formative-study-erasing.gif": "/static/media/formative-study-erasing.1661439363c27b30afdd.gif",
     "static/media/formative-study-drawing.gif": "/static/media/formative-study-drawing.b8ee161abdbef16c2df0.gif",
@@ -11,6 +11,7 @@
     "static/media/formative-study-lying.gif": "/static/media/formative-study-lying.5b2b44e346218c853eb8.gif",
     "static/media/formative-study-sitting.gif": "/static/media/formative-study-sitting.317a55d76ce64e1a9430.gif",
     "static/media/formative-study-setting.gif": "/static/media/formative-study-setting.22f78deb9ef5697ee637.gif",
+    "static/media/demo.gif": "/static/media/demo.d8cfb8d1210b66bb6f06.gif",
     "static/media/formative-study-shaking.gif": "/static/media/formative-study-shaking.06fc5f12838f93906a50.gif",
     "static/media/speaker-glasscatfish_heroshot.jpg": "/static/media/speaker-glasscatfish_heroshot.e8c598b9fdff9f005220.jpg",
     "static/media/formative-study-catching.gif": "/static/media/formative-study-catching.aca90b070deebbf68a90.gif",
@@ -119,11 +120,11 @@
     "static/media/logo_thin.svg": "/static/media/logo_thin.166d22668f47b62068cbaf65319afe78.svg",
     "index.html": "/index.html",
     "main.d78d63e1.css.map": "/static/css/main.d78d63e1.css.map",
-    "main.85d54627.js.map": "/static/js/main.85d54627.js.map",
+    "main.9c83263f.js.map": "/static/js/main.9c83263f.js.map",
     "787.d5553b83.chunk.js.map": "/static/js/787.d5553b83.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d78d63e1.css",
-    "static/js/main.85d54627.js"
+    "static/js/main.9c83263f.js"
   ]
 }
