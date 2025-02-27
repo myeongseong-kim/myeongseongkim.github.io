@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d78d63e1.css",
-    "main.js": "/static/js/main.13fafab6.js",
+    "main.js": "/static/js/main.62e33955.js",
     "static/js/787.d5553b83.chunk.js": "/static/js/787.d5553b83.chunk.js",
     "static/media/formative-study-erasing.gif": "/static/media/formative-study-erasing.1661439363c27b30afdd.gif",
     "static/media/formative-study-drawing.gif": "/static/media/formative-study-drawing.b8ee161abdbef16c2df0.gif",
@@ -45,6 +45,7 @@
     "static/media/pneuglove_additional.jpg": "/static/media/pneuglove_additional.eb0f67679fb77cbe6c84.jpg",
     "static/media/ambiguus-tiles_additional0.jpg": "/static/media/ambiguus-tiles_additional0.65bf615c57a1e2c6b07f.jpg",
     "static/media/snow-clock_additional3.jpg": "/static/media/snow-clock_additional3.e8858a52943def0e370c.jpg",
+    "static/media/wish-blossom_heroshot.jpg": "/static/media/wish-blossom_heroshot.db8080e2fb556dd1536b.jpg",
     "static/media/dot_inside.jpg": "/static/media/dot_inside.6dca377793ce560c5bce.jpg",
     "static/media/ambiguus-tiles_additional2.jpg": "/static/media/ambiguus-tiles_additional2.82bc518d93d0b3bf6f8a.jpg",
     "static/media/dot_heroshot.jpg": "/static/media/dot_heroshot.ea657a790673e817b8eb.jpg",
@@ -90,6 +91,7 @@
     "static/media/fluid2D-a-particle.webp": "/static/media/fluid2D-a-particle.26c7c115975c8527eaed.webp",
     "static/media/rolling-pixels_diagram.png": "/static/media/rolling-pixels_diagram.0e8e84374b38b7a67a72.png",
     "static/media/coraetor_howitworks.jpg": "/static/media/coraetor_howitworks.1251e897d508488f4d50.jpg",
+    "static/media/wish-blossom_thumbnail.jpg": "/static/media/wish-blossom_thumbnail.6558a76c8a7cc284cd43.jpg",
     "static/media/phantom_thumbnail.jpg": "/static/media/phantom_thumbnail.e21d98e9f8d681876b7e.jpg",
     "static/media/palette_thumbnail.jpg": "/static/media/palette_thumbnail.3090827b149808df935d.jpg",
     "static/media/tei2020.png": "/static/media/tei2020.86fe5ba58abb1c730292.png",
@@ -120,11 +122,11 @@
     "static/media/logo_thin.svg": "/static/media/logo_thin.166d22668f47b62068cbaf65319afe78.svg",
     "index.html": "/index.html",
     "main.d78d63e1.css.map": "/static/css/main.d78d63e1.css.map",
-    "main.13fafab6.js.map": "/static/js/main.13fafab6.js.map",
+    "main.62e33955.js.map": "/static/js/main.62e33955.js.map",
     "787.d5553b83.chunk.js.map": "/static/js/787.d5553b83.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d78d63e1.css",
-    "static/js/main.13fafab6.js"
+    "static/js/main.62e33955.js"
   ]
 }
